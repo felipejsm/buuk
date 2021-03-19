@@ -15,5 +15,4 @@ phases:
 artifacts:
   files:
     - target/buuk.0.0.1.jar
-    - appspec.yml
   discard-paths: yes
